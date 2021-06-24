@@ -1,0 +1,36 @@
+{
+    "inovice": [
+      {
+        "type": "Checking",
+        "accountname": "1267451****-WOLFE",
+        "status": "Active",
+        "currency": "USD",
+        "balance": 6266.33,
+        "id": 1
+      },
+      {
+        "type": "Savings",
+        "accountname": "1277451****-MILLE",
+        "status": "Active",
+        "currency": "USD",
+        "balance": 666.33,
+        "id": 2
+      },
+      {
+        "type": "Checking",
+        "accountname": "1267951****-NILE",
+        "status": "Active",
+        "currency": "USD",
+        "balance": 266.33,
+        "id": 3
+      },
+      {
+        "type": "Checking",
+        "accountname": "1267951****-KASIER",
+        "status": "Active",
+        "currency": "USD",
+        "balance": 626,
+        "id": 4
+      }
+    ]
+  }
